@@ -1,1 +1,7 @@
+DevEnv_Backup_Temp*
+DevEnv_Restore_Temp*
 WinGet_Backup_Temp*
+WinGet_Restore_Temp*
+DevEnv_Backup_*.zip
+WinGet_Backup_*.zip
+*.zip
